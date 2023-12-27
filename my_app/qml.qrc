@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>MenuButton.qml</file>
+        <file>Rashodi.qml</file>
+        <file>Dohodi.qml</file>
+        <file>Loading.qml</file>
+        <file>Analysis.qml</file>
+        <file>MyMenu.qml</file>
+        <file>Settings.qml</file>
+        <file>CustomSwitch.qml</file>
+        <file>Articles.qml</file>
+        <file>FirstArticle.qml</file>
+        <file>List_of_expenses.qml</file>
+        <file>MyComponent.qml</file>
+        <file>PurpleRec.qml</file>
+    </qresource>
+</RCC>

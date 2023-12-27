@@ -1,0 +1,22 @@
+<RCC>
+    <qresource prefix="/">
+        <file>analiz.png</file>
+        <file>menu.png</file>
+        <file>image 3.png</file>
+        <file>apple_.png</file>
+        <file>bank.png</file>
+        <file>bus.png</file>
+        <file>home.png</file>
+        <file>pants.png</file>
+        <file>bank.svg</file>
+        <file>logo.svg</file>
+        <file>rashodi.png</file>
+        <file>dohodi.png</file>
+        <file>diagramma.png</file>
+        <file>Left_Arrow.png</file>
+        <file>size_text.png</file>
+        <file>calendar.png</file>
+        <file>arrow.png</file>
+        <file>reclama.jpg</file>
+    </qresource>
+</RCC>

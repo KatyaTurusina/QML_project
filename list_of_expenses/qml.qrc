@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>MenuButton.qml</file>
+        <file>analiz.png</file>
+        <file>dohodi.png</file>
+        <file>menu.png</file>
+        <file>rashodi.png</file>
+        <file>reclama.jpg</file>
+        <file>MyComponent.qml</file>
+        <file>PurpleRec.qml</file>
+    </qresource>
+</RCC>

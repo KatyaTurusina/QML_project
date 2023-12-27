@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>analiz.png</file>
+        <file>dohodi.png</file>
+        <file>menu.png</file>
+        <file>rashodi.png</file>
+        <file>arrow.png</file>
+        <file>calendar.png</file>
+        <file>diagramma.png</file>
+        <file>size_text.png</file>
+        <file>Left_Arrow.png</file>
+    </qresource>
+</RCC>

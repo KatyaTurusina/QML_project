@@ -179,31 +179,7 @@ ApplicationWindow {
                         onClicked: stackView.push(firstArticle)
 
                     }
-                    Button {
-
-                        id: fifth_control
-                        text: qsTr("Во что инвестировать лучше всего?")
-                        contentItem: Text {
-                            text: fifth_control.text
-                            font: fifth_control.font
-                            opacity: enabled ? 1.0 : 0.3
-                            color: fifth_control.down ? "#FFFFFF" : "#CDCEF4"
-                            horizontalAlignment: Text.AlignHCenter
-                            verticalAlignment: Text.AlignVCenter
-                            elide: Text.ElideRight
-                        }
-                        background: Rectangle {
-                            implicitWidth: root.width-20
-                            implicitHeight: 48
-                            opacity: enabled ? 1 : 0.3
-                            color: fifth_control.down ? "#CDCEF4" : "#6061D4"
-                            border.color: fifth_control.down ? "#CDCEF4" : "#6061D4"
-                            border.width: 1
-                            radius: 10
-                        }
-                        onClicked: stackView.push(firstArticle)
-
-                    }
+                    
                     Image {
                         anchors.verticalCenter: root
                         //anchors.bottom: parent.bottom
